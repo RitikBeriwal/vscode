@@ -1,0 +1,152 @@
+
+
+
+
+
+.insta{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+
+
+.search-space{
+    width: 258px;
+    height: 30px;
+    margin-bottom: 5px;
+    font-size: 0.6rem;
+    border: 2px solid lightgrey;
+}
+
+
+.password-space{
+    width: 258px;
+    height:30px;
+    margin-bottom: 9px;
+    font-size: 0.6rem;
+    border: 2px  solid lightgrey;
+}
+
+
+.bttn{
+    width: 268px;
+    height: 28px;
+    font-size: 0.8rem;
+    background-color: 	#3c82de;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+
+
+.or{
+   margin-left: 120px;
+}
+
+
+
+.fblogo{
+    display: flex;
+    margin-left: 35px;
+}
+
+
+.facblogo{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+}
+
+.loginfac{
+    color:	#1877F2;
+}
+
+
+
+.mobileimg{
+    width: 400px;
+
+}
+
+
+
+.loginform{
+    width: 400px;
+    margin-left: 10px;
+    border: 2px solid rgb(218, 218, 218);
+    padding-top: 50px;
+    height: 400px;
+}
+
+
+.userlog{
+    margin-top: 30px;
+    margin-left: 55px;
+}
+
+
+
+
+.instahead{
+   margin-left: 80px;
+}
+
+
+.loginbttn{
+    margin-top: 10px;
+}
+
+
+
+
+
+.haveaacc{
+    width: 400px;
+    text-align: center;
+    border: 2px solid rgb(218, 218, 218);
+    height: 62px;
+    margin-top: 35px;
+    
+}
+
+
+.haveaacc a{
+    color: #1877F2;
+}
+
+
+.forgot{
+margin-top: 0px;
+margin-left: 75px;
+color: #1877F2;
+font-size: 0.8rem;
+font-weight: 200;
+}
+
+
+
+
+.apps{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.apps .imggoogle{
+    width: 134px;
+height: 40px;
+}
+
+.apps .imgmicro{
+    width: 110;
+    height: 40px;
+}
+
+
+.appenq{
+    text-align: center;
+    font-weight: 200;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}

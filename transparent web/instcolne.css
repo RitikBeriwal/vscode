@@ -1,0 +1,27 @@
+.bar{
+    background-color: #222f3f;
+    padding-bottom: 0px;
+    display: flex;
+    height: 10%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.en{
+    padding-left: 75%;
+    display: flex;
+    font-size: 15px;
+}
+
+h4{
+    color: aliceblue;
+    font-size: smaller
+}
+
+.sn{
+    padding-left: 15px;
+    font-size: smaller;
+}

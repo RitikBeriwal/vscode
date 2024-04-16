@@ -1,0 +1,60 @@
+
+.contact-form{
+    background-color: rgb(152, 198, 241);
+    width: 500px;
+    height: 400px;
+    margin-left: 30%;
+    margin-top: 50px;
+    border: none;
+    border-radius: 25px;
+
+}
+
+.mhead{
+    color: #4646ca;
+    margin-left: 5%;
+    font: bolder;
+    font-size: xx-small;
+}
+
+.head{
+    color:beige;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+.bttn{
+    background-color: brown;
+    margin-left: 30%;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+}
+
+.rbttn{
+    background-color: rgb(236, 236, 7);
+    margin-left: 10%;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 100px;
+    height: 28px;
+}
+
+#name{
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+#email{
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+#MESS{
+    margin-left: 25px;
+    margin-top: 8px;
+}

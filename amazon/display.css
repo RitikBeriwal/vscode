@@ -1,0 +1,39 @@
+.productsdisplay{
+    display: flex;
+}
+
+
+
+.display1, .display2, .display3{
+    margin-left: 10px;
+    background-color: aqua;
+    width: 415px;
+    
+}
+
+.display2{
+    text-align: center;
+   
+}
+
+.display3{
+    text-align: center;
+}
+
+.display{
+    height: 140px;
+    width: 180px;
+   
+}
+
+
+#bagsale, #clothsale{
+    margin-top: 60px;
+}
+
+
+#watchsale, #clothsale{
+    margin-left: 20px;
+}
+
+
